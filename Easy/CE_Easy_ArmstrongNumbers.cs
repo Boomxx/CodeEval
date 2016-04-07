@@ -1,4 +1,11 @@
-﻿using System.IO;
+﻿/*
+ * Challenge Description:
+ * 
+ * An Armstrong number is an n-digit number that is equal to the sum of the n'th powers of its digits. 
+ * Determine if the input numbers are Armstrong numbers. 
+*/
+
+using System.IO;
 
 class CE_Easy_ArmstrongNumbers
 {
