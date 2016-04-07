@@ -1,4 +1,6 @@
-# My solutions to Code Eval Easy Problems
+# My solutions to Code Eval Problems
+
+## Easy
 
 * Armstrong Numbers
 * Beautiful Strings
