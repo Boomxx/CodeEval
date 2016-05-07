@@ -19,3 +19,4 @@
 * Sum of Digits
 * Sum of Integers From File
 * Sum of Primes
+* Calculate Distance
